@@ -6,7 +6,7 @@ export const RISK_ZONES = [
         radius: 100,
     },
     {
-        name: "Don & Sons Kirillawala",
+        name: "Don & Sons - Kirillawala",
         latitude: 7.020415012573351,
         longitude: 79.97235508070891,
         radius: 100,
@@ -15,12 +15,6 @@ export const RISK_ZONES = [
         name: "The Stage Cafe & Cake Bar - Kadawatha",
         latitude: 7.028505852865446, 
         longitude: 79.98332802834624,
-        radius: 100,
-    },
-    {
-        name: "Mom's Luxury Restaurant & Pub",
-        latitude: 7.04336763587943,
-        longitude: 79.99539764313727,
         radius: 100,
     },
     {

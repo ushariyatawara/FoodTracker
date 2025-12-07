@@ -1,5 +1,3 @@
-
-
 const TASK_NAME = "TRACKING_LOCATION";
 
 // Haversine formula for calculating distance between two geographical points
